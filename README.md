@@ -1,4 +1,4 @@
-# fliprkanban
+# Kanbello
 
 A new Flutter application.
 
