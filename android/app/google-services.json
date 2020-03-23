@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "381992440177",
+    "firebase_url": "https://flipr-kanban.firebaseio.com",
+    "project_id": "flipr-kanban",
+    "storage_bucket": "flipr-kanban.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381992440177:android:708dc24aa5c3506c43e6d0",
+        "android_client_info": {
+          "package_name": "com.example.fliprkanban"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381992440177-ql1vicd0eq71837csc23qm69gcvb6mlg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fliprkanban",
+            "certificate_hash": "5aefdf120fd3fb74d67229e30bd9c9fcadf3f021"
+          }
+        },
+        {
+          "client_id": "381992440177-ljb700cde7uma2k068a5m6tuoesgnabr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVNTZAAXpZP0VpFGV-oqSX_J024AIJc6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381992440177-ljb700cde7uma2k068a5m6tuoesgnabr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
